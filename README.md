@@ -15,3 +15,11 @@
 ![hoamepage heading](https://github.com/MohNamdar/Resume/blob/main/noora-ribon01.png)
 ![carts](https://github.com/MohNamdar/Resume/blob/main/noora-ribon02.png)
 ![carts 2](https://github.com/MohNamdar/Resume/blob/main/Noora-ribon03.png)
+
+
+### Hamid Realstate | املاک حمید
+![logo mockup1](https://github.com/MohNamdar/Resume/blob/main/AmlakHamid.jpg)
+
+
+### Helsa Mason | مزون هلسا
+![logo mockup1](https://github.com/MohNamdar/Resume/blob/main/helsa-gallery-cart.jpg)
