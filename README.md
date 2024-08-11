@@ -7,7 +7,7 @@
 ![account footer](https://github.com/MohNamdar/Resume/blob/main/Namibal03.png)
 
 
-### [Blogino](https://github.ocm/MohNamdar/blagino) | وبلاگ بلاگینو
+### [Blogino](https://github.com/MohNamdar/Blogino) | وبلاگ بلاگینو
 ------
 ![Blogino](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/Blogino.jpg)
 ![homepage](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/homepage.png)
