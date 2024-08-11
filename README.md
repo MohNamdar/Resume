@@ -14,7 +14,7 @@
 ![podcast](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/podcast_list.png)
 
 
-### [SnakeGame With Python (Termnal Based)](https://github.com/MohNamdar/https://github.com/MohNamdar/snakegame-with-python)
+### [SnakeGame With Python (Termnal Based)](https://github.com/MohNamdar/snakegame-with-python)
 ------
 ![snakegame](https://github.com/MohNamdar/snakegame-with-python/blob/main/snakegame.jpg)
 
