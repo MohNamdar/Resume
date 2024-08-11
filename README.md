@@ -18,6 +18,9 @@
 ------
 ![snakegame](https://github.com/MohNamdar/snakegame-with-python/blob/main/snakegame.jpg)
 
+### [Tic Tac Toe (Termnal Based)](https://github.com/MohNamdar/tic-tac-toe)
+------
+![Tic Tac Toe](https://github.com/MohNamdar/tic-tac-toe/blob/main/tic-tac-toe.jpg)
 
 ### [Tetris With Python (Termnal Based)](https://github.com/MohNamdar/Teris-with-Python)
 ![Tetris game](https://github.com/MohNamdar/Teris-with-Python/blob/main/tetris.jpg)
