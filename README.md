@@ -10,9 +10,9 @@
 ### [Blogino](https://github.com/MohNamdar/Blogino) | وبلاگ بلاگینو
 ------
 ![Blogino](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/Blogino.jpg)
-![homepage](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/homepage.png)
-![podcast](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/podcast_list.png)
-
+![article list](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/article_list.jpg)
+![article_page1](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/article_page1.jpg)
+![article_page2](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/article_page2.jpg)
 
 ### [SnakeGame With Python (Termnal Based)](https://github.com/MohNamdar/snakegame-with-python)
 ------
