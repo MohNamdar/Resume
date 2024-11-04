@@ -14,6 +14,11 @@
 ![article_page1](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/article_page1.jpg)
 ![article_page2](https://github.com/MohNamdar/Blogino/blob/main/blog/static/images/screenshots/article_page2.jpg)
 
+## [Yaabash](https://mohnam.ir/article/Yaadbashbot) | ربات تلگرامی یادباش
+------
+![Yaadbash](https://mohnam.ir/media/covers/article/2024/11/Yaadbashbot-min.jpg)
+
+
 ### [SnakeGame With Python (Termnal Based)](https://github.com/MohNamdar/snakegame-with-python)
 ------
 ![snakegame](https://github.com/MohNamdar/snakegame-with-python/blob/main/snakegame.jpg)
